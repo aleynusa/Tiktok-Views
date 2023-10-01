@@ -1,0 +1,24 @@
+{
+  "name": "tiktok-views",
+  "version": "1.0.0",
+  "description": "clone this github \r - npm i --save inquirer\r - npm i fetch \r - node bot.js",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleynusa/Tiktok-Views.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aleynusa/Tiktok-Views/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/aleynusa/Tiktok-Views#readme",
+  "dependencies": {
+    "inquirer": "^9.2.11",
+    "node-fetch": "^3.3.2"
+  }
+}
